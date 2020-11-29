@@ -1,0 +1,14 @@
+ 
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.5)),url('../Images/website1.jpg') ;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
