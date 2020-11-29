@@ -12,3 +12,16 @@ header{
     height: 100vh;
 
 }
+
+.row{
+    max-width: 11800px;
+    margin: 0  auto;
+
+}
+
+.logo{
+    height: 120px;
+    width: auto;
+    float: left;
+    margin-top: 80px;
+}
