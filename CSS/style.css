@@ -87,3 +87,20 @@ h1{
     transition: background-color 0.2s, border 0.2s, color 0.2;
 
 }
+
+.btn-full{
+
+    background-color:  transparent ;
+    color: #fff;
+    margin-right:  15px ;
+    border:1px  solid  #fff;   
+
+}
+.btn-nav{
+    background-color:  transparent ;
+    color: #fff;
+    margin-right:  15px ;
+    border:1px  solid  #fff;  
+
+}
+
