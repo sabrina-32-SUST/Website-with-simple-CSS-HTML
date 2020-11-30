@@ -61,6 +61,11 @@ header{
 
 }
 
+.main-nav  li a:hover{
+    border-bottom: 2px  solid #fff;
+    
+}
+
 .main-content-header{
     width: 1180px;
     position: absolute;
@@ -99,11 +104,19 @@ h1{
     border:1px  solid  #fff;   
 
 }
-.btn-nav{
+.btn-full:hover{
+    background-color:#fff;
+
+}
+ .btn-nav{
     background-color:  transparent ;
     color: #fff;
     margin-right:  15px ;
     border:1px  solid  #fff;  
+
+}
+.btn-nav:hover{
+    background-color:#fff;
 
 }
 
