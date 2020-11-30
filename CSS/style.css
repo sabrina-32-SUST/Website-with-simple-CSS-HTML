@@ -79,5 +79,11 @@ h1{
 
 .btn{
     display: inline-block;
-    
+    padding: 10px 30px;
+    font-weight: lighter;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 200px ;
+    transition: background-color 0.2s, border 0.2s, color 0.2;
+
 }
